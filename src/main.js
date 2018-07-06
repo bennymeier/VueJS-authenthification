@@ -15,8 +15,8 @@ let config = {
   messagingSenderId: ""
 };
 
-firebase.initializeApp(config)
-firebase.auth().onAuthStateChanged(function(user) {
+firebase.initializeApp(config);
+firebase.auth().onAuthStateChanged(() => {
   if (!app) {
     app = new Vue({
       el: '#app',
