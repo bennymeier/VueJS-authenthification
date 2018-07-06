@@ -53,10 +53,10 @@ export default {
         .auth()
         .createUserWithEmailAndPassword(this.email, this.password)
         .then(
-          user => {
+          (user) => {
             this.$router.replace("hello");
           },
-          err => {
+          (err) => {
             this.error = `${err.message}`;
             this.isError = true;
           }
