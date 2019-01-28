@@ -1,9 +1,7 @@
-# Vue 2 + Firebase + Bootstrap 4: Build a Vue app with Firebase authentication system and Bootstrap 4
+# An authenthification system made with VueJS, Firebase and Bootstrap 4.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bennymeier/vueJS-firebase-bootstrap/master/firebase_vuejs.png">
-  <img src="https://raw.githubusercontent.com/bennymeier/vueJS-firebase-bootstrap/master/bootstrap_vuejs.png"/>
-</p>
+
+![Authenthification System](https://raw.githubusercontent.com/bennymeier/VueJS-authenthification/master/auth.PNG)
 
 
 ### How to use
