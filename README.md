@@ -1,7 +1,7 @@
-# An authenthification system made with VueJS, Firebase and Bootstrap 4.
+# An authentication system made with VueJS, Firebase and Bootstrap 4.
 
 
-![Authenthification System](https://raw.githubusercontent.com/bennymeier/VueJS-authenthification/master/auth.PNG)
+![Authentication System](https://raw.githubusercontent.com/bennymeier/VueJS-authenthification/master/auth.PNG)
 
 
 ### How to use
